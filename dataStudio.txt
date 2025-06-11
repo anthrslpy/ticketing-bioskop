@@ -1,0 +1,2 @@
+ST001|Studio 1|Reguler
+ST002|Studio 2|Deluxe

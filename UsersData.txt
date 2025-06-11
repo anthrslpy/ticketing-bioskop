@@ -1,0 +1,5 @@
+USER1,nasy@gmail,nasy,nasy,0821,CUSTOMER
+USER2,nasy1@gmail,nasy1,nasy1,0812,CUSTOMER
+USER3,nasy2@gmail,nasy2,nasy2,0822,CUSTOMER
+USER4,anasya@gmail.com,anasya,1234,0821,CUSTOMER
+ADMIN5,anasya@gmail,anasya,work,NIP001,ADMIN
